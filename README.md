@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, R, Pandas, PyTorch, Seaborn, Matplotlib, Sci-Kit Learn
+#### Technical Skills: Python, R, Pandas, PyTorch, Seaborn, Matplotlib, Sci-Kit Learn, Presidio
 
 ## Education 			        		
-- B.S., Data Sciene | University of Oregon (_September 2022_)
+- B.S., Data Science | University of Oregon (_September 2022_)
 
 ## Work Experience
 **Undergraduate Researcher @ Rohlf's Lab (_September 2023 - Present_)**
@@ -20,4 +20,6 @@
 - Completed hundreds of reformats of staff computers
 
 ## Projects
-
+**CAHOOTS Case Narrative Anonymization Project**
+CAHOOTS (Crisis Assistance Helping Out On The Streets) is a non-profit organization that operates within the Eugene/Springfield area. CAHOOTS provides immediate stabilization in case of urgent medical need or psychological crisis, assessment, information, referral, advocacy and, in some cases, transportation to the next step in treatment. In order to use their case narrative data for further analysis, this project was done in order to remove all personally identifiable information from their case narratives.
+git link
